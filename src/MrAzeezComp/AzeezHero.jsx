@@ -27,7 +27,7 @@ function AzeezHero({ topics }) {
         <div className="flex md:flex-row justify-between md:items-center border-b border-gray-300 pb-4">
           <div className="space-y-2">
             <h1 className="font-bold md:text-2xl text-xl text-gray-900">
-              Fullstack Development
+              Full Stack Development
             </h1>
             <h2 className="font-normal text-sm md:text-lg text-gray-600">
               Track your teaching progress and ensure comprehensive coverage
